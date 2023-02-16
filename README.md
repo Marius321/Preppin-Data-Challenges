@@ -12,3 +12,4 @@ Challenge | Solution |
 [WEEK 4](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W4_2023_SQL.sql) |
 [WEEK 5](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W5_2023_SQL.sql) |
 [WEEK 6](https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W6_2023_SQL.sql) |
+[WEEK 7](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W6_2023_SQL.sql) |
