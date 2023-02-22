@@ -6,7 +6,7 @@ Preppin Data is a weekly communitity-led data preperation project that is focuse
 ## ✅ 2023 Solutions
 Challenge | Solution |
 --- | --- |
-[WEEK 1](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/Week1_2023_SQL.sql) |
+[WEEK 1](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/Week1_2023_SQL.sql) | [Python](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/Python/W1_2023.py) |
 [WEEK 2](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W2_2023_SQL.sql) |
 [WEEK 3](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W3_2023_SQL.sql) |
 [WEEK 4](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W4_2023_SQL.sql) |
