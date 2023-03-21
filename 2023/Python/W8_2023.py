@@ -37,13 +37,11 @@ bins_pp = [0,24999.99,49999.99,74999.99,100000]
 labels_pp = ['Low', 'Medium', 'High', 'Very High']
 merged_data['Purchase Price Categorisation'] = pd.cut(merged_data['Purchase Price'], bins=bins_pp, labels=labels_pp)
 
-
 #Categorise the Market Cap into groupings
 #Below $100M as 'Small'
 #Between $100M and below $1B as 'Medium'
 #Between $1B and below $100B as 'Large' 
 #$100B and above as 'Huge'
-print(merged_data)
 merged_data['Market Cap'] = merged_data['Market Cap'].str.replace('$','', regex=False)
 
 def convert_market_cap(val):
@@ -70,15 +68,12 @@ def categorize_market_cap(val):
     
 merged_data['Market Capitalisation Categorisation'] = merged_data['Market Cap'].apply(categorize_market_cap)
 
-
-
+#Rank the highest 5 purchases per combination of: file date, Purchase Price Categorisation and Market Capitalisation Categorisation.
 merged_data = merged_data.iloc[:,[11,10,9,3,4,5,6,7,8]]
-print(merged_data)
 
 merged_data['Rank'] = merged_data.groupby(['File Date', 'Purchase Price Categorisation','Market Capitalisation Categorisation'])['Purchase Price'].rank(ascending=False)
-print(merged_data)
 
 #Output only records with a rank of 1 to 5
 output = merged_data[merged_data['Rank']<=5]
-print(output)
 output.to_csv(r'C:\Users\Marius\Documents\Prepping Data\2023 Week 8\Outputs\W8_2023_Output_py.csv', index=False)
+print('Data prepped!')
