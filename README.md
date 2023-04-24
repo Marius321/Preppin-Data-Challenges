@@ -15,4 +15,4 @@ Challenge | SQL | Python |
 [WEEK 7](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html) | [SQL](https://github.com/Marius321/SQL-Preppin-Data-Challenges/blob/main/2023/SQL/W7_2023_SQL.sql) | [PYTHON](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/Python/W7_2023.py) | 
 [WEEK 8](https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html) | [SQL](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/SQL/W8_2023.sql) | [PYTHON](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/Python/W8_2023.py) | 
 [WEEK 9](https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html) | [SQL](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/SQL/W9_2023_SQL.sql) | [PYTHON](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/Python/W9_2023.py) |
-[WEEK 9](https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html) |
+[WEEK 9](https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html) |[SQL](https://github.com/Marius321/Preppin-Data-Challenges/blob/main/2023/SQL/W10_2023_SQL.sql) |
