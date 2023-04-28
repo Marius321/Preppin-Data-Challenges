@@ -1,9 +1,6 @@
 # Preppin Data Challenges
 Here I solve the Preppin Data Challenges using SQL and Python.
 
-akajsabsajka 
-
-
 Preppin Data is a weekly community-led data preparation project that is focused on Tableau Prep. However, the community uses a plethora of different tools, such as Python, R or SQL to solve these weekly challenges. I will use SQL and Python to solve these. The aim is to improve and showcase my SQL and Python abilities using these solutions as an example.
 
 ## ✅ 2023 Solutions
